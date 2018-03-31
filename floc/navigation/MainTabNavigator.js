@@ -6,19 +6,19 @@ import { TabNavigator, TabBarBottom } from 'react-navigation';
 import Colors from '../constants/Colors';
 
 import DiscoverScreen from '../screens/DiscoverScreen';
-import ClubsScreen from '../screens/ClubsScreen';
-import EventsScreen from '../screens/EventsScreen';
+import ExploreScreen from '../screens/ExploreScreen';
+import EngageScreen from '../screens/EngageScreen';
 
 export default TabNavigator(
   {
     Discover: {
       screen: DiscoverScreen,
     },
-    Clubs: {
-      screen: ClubsScreen,
+    Explore: {
+      screen: ExploreScreen,
     },
-    Events: {
-      screen: EventsScreen,
+    Engage: {
+      screen: EngageScreen,
     },
   },
   {
