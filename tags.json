@@ -1,0 +1,75 @@
+[{
+  "name": "Art, Design and Fashion",
+  "id_txt": "art_design",
+  "keywords": "Painting, caricature, fashion, branding, web development, apps, sculpture, glass blowing, drawing, sketching, modelling, stitching, sewing, dresses, clothes, collection, wood burning, museum, artifact"
+},
+{
+  "name": "Architecture, Environment and Urban space",
+  "id_txt": "architecture",
+  "keywords": "planning, building, construction, architectonics  design, structure, construction, framework structure, construction, form, formation, shape, composition, organization, layout, design, build, Space, height, width, dimension, nature, light, elevation, habitat, territory, domain, home, abode, surroundings, conditions, environs, circumstances, situation, setting, milieu, medium, background, backdrop, scene, scenario, location, locale, context, framework, sphere, world, realm, preserve, province, ambience, atmosphere, climate, mood, air, aura, wildlife, flora, fauna, nature"
+},
+{
+  "name": "Business, Management and Entrepreneurship",
+  "id_txt": "business",
+  "keywords": "trade, trading, commerce, buying and selling, dealing, traffic, trafficking, marketing, merchandising, bargaining, dealings, transactions, negotiations, proceedings, management, running, direction, control, governing, administration, supervision, administration, running, managing, organization, charge, care, direction, leadership, control, governing, governance, ruling, command, superintendence, supervision, overseeing, conduct, handling, guidance, operation,  Money, opportunity, marketing, tools, SEOs, risk assessment, hustle, plan, idea, money, income, finance, economics"
+},
+{
+  "name": "Culinary",
+  "id_txt": "culinary",
+  "keywords": "Food, free food, cooking, classes, ingredients, diet, protein, dishes, pizza, healthy, eats, eating, cuisine, cookery, baking, food"
+},
+{
+  "name": "Education",
+  "keywords": "teaching, schooling, tuition, tutoring, instruction, pedagogy, andragogy, coaching, training, tutelage, drilling, preparation, guidance, indoctrination, inculcation, enlightenment, edification, cultivation, development, improvement, bettering learning, knowledge, literacy, schooling, scholarship, enlightenment, cultivation, culture, refinement, letters"
+},
+{
+  "name": "Engineering",
+  "id_txt": "engineering",
+  "keywords": "Scientific, applied, tech, hi-tech, mechanics, machines, organization, planning, plans, management, arrangement, administration, masterminding, direction, orchestration, regimentation, engineering, coordination, execution, handling, running, strategy, tactics, Architectural, Construction Environmental Earthquake Geotechnical Hydraulic Mining Structural Transportation, Acoustical Aerospace, Automotive Marine Mechatronics Railway Thermal, Computer Control Electromechanics Electronics Microwaves Power Radio Frequency Telecommunications, Biochemical Biological Molecular Petroleum Process Reaction Thermodynamics Transport phenomena "
+},
+{
+  "name": "Ethics and Cultural",
+  "id_txt": "cultural",
+  "keywords": "moral code, morals, morality, moral stand, moral principles, moral values, rights and wrongs, principles, ideals, creed, credo, ethos, fairness, justness, fair play, fair-mindedness, equity, equitableness, even-handedness, egalitarianism, impartiality, impartialness, lack of bias, objectivity, neutrality, disinterestedness, lack of prejudice, open-mindedness, nonpartisanship, honor, uprightness, decency, integrity, probity, honesty, righteousness, ethics, morals, morality, virtue, principle, right-mindedness, propriety, scrupulousness, trustworthiness, incorruptibility "
+},
+{
+  "name": "Fraternities and Sororities",
+  "id_txt": "fraternities",
+  "keywords": "brother, frat, social, family, brotherhood, fellowship, kinship, friendship, companionship, support, mutual support, solidarity, community, union, togetherness, sisterhood, sodality, confraternity"
+},
+{
+  "name": "Governance, Politics and Law",
+  "id_txt": "politics_law",
+  "keywords": "Senate, headship, directorship, direction, governorship, governance, administration, jurisdiction, captaincy, superintendency, control, ascendancy, rule, command, power, mastery, domination, dominion, premiership, sovereignty,government, local government, affairs of state, public affairs, diplomacy, party politics, political science, civics, statecraft, statesmanship, rules and regulations, system of laws, body of laws, constitution, legislation, code, legal code, charter, jurisprudence, regulation, principle, convention, direction, instruction, guideline, practice, fact, verity, certainty, certitude, law, principle  "
+},
+{
+  "name": "Honor society",
+  "id_txt": "honor_society",
+  "keywords": "distinction, privilege, glory, tribute, kudos, cachet, prestige, fame, renown, merit, credit, importance, illustriousness, notability, respect, esteem, approbation,academic achievement"
+},
+{
+  "name": "Media, Journalism, and creative writing",
+  "id_txt": "media_journalism",
+  "keywords": "media, communication, the press, the print media, the fourth estate, radio journalism, television journalism, Fleet Street, reporting, writing, reportage, feature writing, news coverage, investigative journalism, articles, reports, features, pieces, stories, words, publication, print, press, written "
+},
+{
+  "name": "Theatre and Performing Art",
+  "id_txt": "theatre",
+  "keywords": "playhouse, auditorium, amphitheater, hippodrome, coliseum, acting, performing, drama, the dramatic arts, dramaturgy, the thespian art, stagecraft, theatricals, theatrics, show business, the stage, the boards, showbiz, thespianism, histrionics, drama, dance, music, performance,  stage, live act, act, theatre  "
+},
+{
+  "name": "Religious and spiritual",
+  "id_txt": "religious",
+  "keywords": "devout, pious, reverent, believing, godly, God-fearing, dutiful, saintly, holy, prayerful, churchgoing, practicing, faithful, devoted, committed, nonmaterial, inner, psychic, psychical, psychological, incorporeal, intangible, otherworldly, unworldly, ethereal, transcendent, mystic, mystical, numinous, metaphysical, extramundane, immaterial, religious, sacred, divine, holy, nonsecular, church, churchly, ecclesiastic, devotional "
+},
+{
+  "name": "Sports and recreation",
+  "id_txt": "recreation",
+  "keywords": "games, play, physical recreation, physical activity, physical exercise, exercise, energy, calories, win, match, team, Walking, running, exercise, gym, body building, yoga, aerobics, volleyball, basketball, football, ball, baseball, game, buckeye, sports, athletics  "
+},
+{
+  "name": "Technology and transformation",
+  "id_txt": "technology",
+  "keywords": "equipment, apparatus, hardware, plant, mechanism, gear, tackle, instruments, tools, gadgetry, technology, enginery, engineering or applied sciences, future, technology, AI, AR, VR, digitals, hack, computer science  "
+}
+]
